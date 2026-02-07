@@ -24,15 +24,15 @@
     --muted: 220 15% 94%;
     --muted-foreground: 220 10% 45%;
 
-    --accent: 262 83% 58%;
-    --accent-foreground: 0 0% 100%;
+    --accent: 25 95% 50%;
+    --accent-foreground: 220 70% 15%;
 
     --destructive: 0 72% 51%;
     --destructive-foreground: 0 0% 100%;
 
     --border: 220 15% 90%;
     --input: 220 15% 90%;
-    --ring: 262 83% 58%;
+    --ring: 25 95% 50%;
 
     --radius: 0.75rem;
 
@@ -56,11 +56,11 @@
 
     /* Custom tokens */
     --gradient-hero: linear-gradient(135deg, hsl(220, 70%, 25%) 0%, hsl(220, 60%, 35%) 50%, hsl(250, 50%, 40%) 100%);
-    --gradient-accent: linear-gradient(135deg, hsl(262, 83%, 58%) 0%, hsl(280, 80%, 50%) 100%);
+    --gradient-accent: linear-gradient(135deg, hsl(25, 95%, 50%) 0%, hsl(15, 95%, 45%) 100%);
     --gradient-card: linear-gradient(180deg, hsl(0, 0%, 100%) 0%, hsl(220, 20%, 98%) 100%);
     --shadow-card: 0 1px 3px 0 hsl(220 60% 10% / 0.06), 0 1px 2px -1px hsl(220 60% 10% / 0.06);
     --shadow-elevated: 0 10px 25px -5px hsl(220 60% 10% / 0.08), 0 8px 10px -6px hsl(220 60% 10% / 0.04);
-    --shadow-glow: 0 0 30px hsl(262 83% 58% / 0.25);
+    --shadow-glow: 0 0 30px hsl(25 95% 50% / 0.25);
 
     --font-heading: 'Plus Jakarta Sans', system-ui, sans-serif;
     --font-body: 'Inter', system-ui, sans-serif;
@@ -85,15 +85,15 @@
     --muted: 220 25% 14%;
     --muted-foreground: 220 10% 55%;
 
-    --accent: 262 83% 65%;
-    --accent-foreground: 0 0% 100%;
+    --accent: 25 90% 55%;
+    --accent-foreground: 220 70% 10%;
 
     --destructive: 0 62% 40%;
     --destructive-foreground: 0 0% 100%;
 
     --border: 220 25% 18%;
     --input: 220 25% 18%;
-    --ring: 262 83% 65%;
+    --ring: 25 90% 55%;
 
     --sidebar-background: 220 50% 5%;
     --sidebar-foreground: 220 15% 85%;
